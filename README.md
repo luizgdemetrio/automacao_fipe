@@ -212,7 +212,7 @@ automacao_fipe/
 
 ---
 
-## Contribuidoras
+## Contribuidores
 
 <!-- Adicione aqui as contribuidoras do projeto -->
 
