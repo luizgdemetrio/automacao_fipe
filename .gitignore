@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# IA / Agent config
+.claude/
+
+# HTML snapshots / exports
+fipe.html
+*.html
+
+# Data files (planilhas)
+*.xlsx
+*.xls
