@@ -218,7 +218,7 @@ automacao_fipe/
 
 | Nome | GitHub | Papel |
 |------|--------|-------|
-| Luiz Gustavo D. Metrio | [@luizgdemetrio](https://github.com/luizgdemetrio) | Desenvolvedor principal |
+| Luiz Gustavo Demetrio de Sousa | [@luizgdemetrio](https://github.com/luizgdemetrio) | Desenvolvedor principal |
 
 ---
 
@@ -226,4 +226,4 @@ automacao_fipe/
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-Copyright (c) 2026 Luiz Gustavo
+Copyright (c) 2026 Luiz Gustavo Demetrio de Sousa
